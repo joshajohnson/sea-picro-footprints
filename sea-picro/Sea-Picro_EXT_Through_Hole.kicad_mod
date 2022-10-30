@@ -2731,7 +2731,7 @@
   (pad "30" thru_hole roundrect (at 7.65049 -12.7 45) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp 69b62df2-080c-4fbc-a9ff-a83e6181a480))
   (pad "31" thru_hole circle (at 7.65049 -15.24) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 4fffb586-b915-45cc-a9a2-02cc516bb571))
   (pad "32" thru_hole circle (at 5.11049 -7.62) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp c36de2cd-62e2-4141-94ed-8598a4021bc0))
-  (model "${KIPRJMOD}/../../josh-kicad-lib/packages3d/josh-module/sea-picro.step"
+  (model "${KIPRJMOD}/../../sea-picro-footprints/sea-picro/sea-picro.step"
     (offset (xyz -126.15 91.27 2.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
