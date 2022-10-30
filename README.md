@@ -1,3 +1,5 @@
 # Sea-Picro Footprints
 
-A WIP KiCad library for Sea-Picro and other Pro-Micro compatiable microcontrollers.
+A KiCad 6 Symbol and Footprint library for Sea-Picro.
+
+Contains schematic symbol, along with normal, flipped, castellated, and castellated + normal footprints.
